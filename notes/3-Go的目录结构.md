@@ -1,3 +1,5 @@
+# GO项目的目录结构
+
 你的 Go 安装目录（$GOROOT）的文件夹结构应该如下所示：
 
 README.md, AUTHORS, CONTRIBUTORS, LICENSE
