@@ -2,7 +2,7 @@
 
 ## 学习资料
 
-https://go.wuhaolin.cn/
+[Golang 中文学习资料](https://go.wuhaolin.cn/)
 
 ## Go 的不适应
 
